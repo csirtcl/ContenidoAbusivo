@@ -8,23 +8,23 @@ Nivel Riesgo: ALTO
 Nombres de archivo y Hashes SHA-256 Asociados 
 ----------------------------------------------------------------
 
-Hash
+hash_alertascisrt
 ----------------------------------------------------------------
 1b90e6f959db883fb4a036dac06242be724a7637708058e2c439e2250222d6d1
 
-Hash
+hash_alertascisrt
 ----------------------------------------------------------------
 0d095acccaeeceea7f8cce241e23512ef995ccc2a7b9507bd0c583144bab4acc
 
-Hash
+hash_alertascisrt
 ----------------------------------------------------------------
 1fd42d07b4be99e0e503c0ed5af2274312be1b03e01b54a6d89c0eef04257d6e
 
-Hash
+hash_alertascisrt
 ----------------------------------------------------------------
 2c27d6456cbdf106e03f07785947f826f0b96b57902eeb010f270ed319f994c9
 
-Hash
+hash_alertascisrt
 ----------------------------------------------------------------
 0d095acccaeeceea7f8cce241e23512ef995ccc2a7b9507bd0c583144bab4acc
 
